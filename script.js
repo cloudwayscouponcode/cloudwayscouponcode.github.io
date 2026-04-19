@@ -24,11 +24,11 @@ const faqs = [
   },
   {
     question: "Are these Cloudways coupon codes verified and legitimate?",
-    answer: "Yes! All coupon codes on this page are manually tested and verified by our team of managed hosting professionals. We have a direct partnership with Cloudways as an authorized affiliate, which means our codes come straight from the source. Codes marked as 'Unverified' are community-shared and may or may not work — always try the Exclusive and Verified codes first."
+    answer: "Yes! All coupon codes on this page are manually tested and verified by our team of managed hosting professionals. We have a direct partnership with Cloudways as an authorized affiliate, which means our codes come straight from the source. Codes marked as 'Unverified' are community-shared and may or may not work always try the Exclusive and Verified codes first."
   },
   {
     question: "Can I combine multiple Cloudways coupon codes?",
-    answer: "No, Cloudways only allows one promo code per account at signup. You cannot stack multiple codes. We recommend using the highest-value code that applies to your chosen plan — currently HIGHSPEED gives you 30% off for 5 months, which is the best overall deal available in 2026."
+    answer: "No, Cloudways only allows one promo code per account at signup. You cannot stack multiple codes. We recommend using the highest-value code that applies to your chosen plan currently ALLCOUPON gives you 30% off for 5 months, which is the best overall deal available in 2026."
   },
   {
     question: "Which Cloudways plan is best for beginners?",
@@ -40,7 +40,7 @@ const faqs = [
   },
   {
     question: "How does Cloudways compare to WP Engine and Kinsta?",
-    answer: "Cloudways offers more flexibility at a lower starting price. While WP Engine starts at $20/month and Kinsta at $35/month, Cloudways starts at $14/month — and unlike both competitors, lets you choose from 5 cloud providers, host unlimited apps per server, and use true autoscaling via Kubernetes (Autonomous). WP Engine and Kinsta are WordPress-only; Cloudways also supports Magento, Laravel, and PHP apps."
+    answer: "Cloudways offers more flexibility at a lower starting price. While WP Engine starts at $35/month and Kinsta at $35/month, Cloudways starts at $14/month and unlike both competitors, lets you choose from 5 cloud providers, host unlimited apps per server, and use true autoscaling via Kubernetes (Autonomous). WP Engine and Kinsta are WordPress-only; Cloudways also supports Magento, Laravel, and PHP apps."
   }
 ];
 
