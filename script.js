@@ -1,5 +1,5 @@
 // Affiliate URL - Update with your actual affiliate link
-const AFFILIATE_URL = "https://allcouponcodes.net/refer/helium10";
+const AFFILIATE_URL = "https://allcouponcodes.net/refer/cloudways2";
 
 // Coupon Data
 const coupons = [
