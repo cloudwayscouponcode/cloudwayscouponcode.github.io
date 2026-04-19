@@ -14,13 +14,34 @@ const coupons = [
 
 // FAQ Data
 const faqs = [
-  { question: "What is Helium 10 and who should use it?", answer: "Helium 10 is an all-in-one software suite designed for Amazon sellers. It provides powerful tools for product research, keyword research, listing optimization, inventory management, and analytics. Whether you're a beginner starting your first private label product or an established seller doing millions in revenue, Helium 10 has tools to help you grow." },
-  { question: "How do I use a Helium 10 coupon code from this site?", answer: "Click the 'Show Coupon' button on any coupon above. This will open a new tab with your coupon code displayed, while automatically redirecting the current tab to Helium 10's website. Copy the code from the new tab and paste it in the promo code field during checkout." },
-  { question: "Are these Helium 10 coupons verified and legitimate?", answer: "Yes! All coupon codes on this page are verified daily by our team. We have a direct partnership with Helium 10 as an authorized affiliate, which means our codes come directly from the source." },
-  { question: "Can I combine multiple Helium 10 coupons?", answer: "Helium 10 typically allows only one coupon code per purchase. We recommend using the highest-value coupon that applies to your chosen plan for maximum savings." },
-  { question: "Which Helium 10 plan is best for beginners?", answer: "Based on our experience advising thousands of new sellers, we recommend starting with the Platinum plan. It includes all the essential tools like Black Box, Cerebro, and Magnet that you'll need for product and keyword research." },
-  { question: "Is there a Helium 10 free trial available?", answer: "Yes! Helium 10 offers a free plan with limited features that lets you test the platform. Additionally, using our exclusive coupon codes, you can get up to 50% off your first month on paid plans." },
-  { question: "How does Helium 10 compare to Jungle Scout?", answer: "Both are excellent tools, but based on our hands-on testing, Helium 10 offers more comprehensive features at a similar price point. Helium 10's Cerebro and Magnet tools are particularly strong for keyword research." }
+  {
+    question: "What is Cloudways and who should use it?",
+    answer: "Cloudways is a managed cloud hosting platform that sits on top of major cloud providers including DigitalOcean, AWS, Google Cloud, Vultr, and Linode. It handles all server management, security, and updates so you can focus on your website. It's ideal for developers, agencies, freelancers, and growing businesses who want cloud-level performance without the complexity of managing infrastructure manually."
+  },
+  {
+    question: "How do I use a Cloudways coupon code from this site?",
+    answer: "Click the 'Show Coupon' button on any coupon above. This will open a new tab with your coupon code displayed, while automatically redirecting the current tab to the Cloudways website. Copy the code from the new tab, sign up for a Cloudways account, and paste the code in the 'Got a Promo Code?' field during registration to activate your discount."
+  },
+  {
+    question: "Are these Cloudways coupon codes verified and legitimate?",
+    answer: "Yes! All coupon codes on this page are manually tested and verified by our team of managed hosting professionals. We have a direct partnership with Cloudways as an authorized affiliate, which means our codes come straight from the source. Codes marked as 'Unverified' are community-shared and may or may not work — always try the Exclusive and Verified codes first."
+  },
+  {
+    question: "Can I combine multiple Cloudways coupon codes?",
+    answer: "No, Cloudways only allows one promo code per account at signup. You cannot stack multiple codes. We recommend using the highest-value code that applies to your chosen plan — currently HIGHSPEED gives you 30% off for 5 months, which is the best overall deal available in 2026."
+  },
+  {
+    question: "Which Cloudways plan is best for beginners?",
+    answer: "For most beginners, we recommend starting with the DigitalOcean 1GB plan at $14/month. It's sufficient for small to medium WordPress or WooCommerce sites, includes all Cloudways features (SSL, staging, backups, 24/7 support), and lets you scale up with one click as your traffic grows. Use a 30% coupon code to bring this down to around $9.80/month for your first few months."
+  },
+  {
+    question: "Does Cloudways offer a free trial?",
+    answer: "Yes! Cloudways offers a 3-day free trial with no credit card required. You get full access to all platform features including server deployment, staging environments, and expert support. This is a great way to test performance before committing. After the trial, upgrade to a paid plan and apply your coupon code to lock in the discount."
+  },
+  {
+    question: "How does Cloudways compare to WP Engine and Kinsta?",
+    answer: "Cloudways offers more flexibility at a lower starting price. While WP Engine starts at $20/month and Kinsta at $35/month, Cloudways starts at $14/month — and unlike both competitors, lets you choose from 5 cloud providers, host unlimited apps per server, and use true autoscaling via Kubernetes (Autonomous). WP Engine and Kinsta are WordPress-only; Cloudways also supports Magento, Laravel, and PHP apps."
+  }
 ];
 
 // Initialize on DOM load
@@ -235,8 +256,4 @@ function initSmoothScroll() {
       if (target) target.scrollIntoView({ behavior: 'smooth' });
     });
   });
-
 }
-
-
-
