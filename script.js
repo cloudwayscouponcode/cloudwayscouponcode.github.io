@@ -3,7 +3,7 @@ const AFFILIATE_URL = "https://allcouponcodes.net/refer/cloudways2";
 
 // Coupon Data
 const coupons = [
-  { code: "MIGRATE303", discount: "30% OFF", description: "Get 30% Off for 3 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
+  { code: "SUMMER404", discount: "40% OFF", description: "Get 40% Off for 3 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
   { code: "ALLCOUPON", discount: "30% OFF", description: "Get 30% Off for 3 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
   { code: "HIGHSPEED", discount: "20% OFF", description: "20% off for 3 months", type: "exclusive", initialDays: 3 },
   { code: "ALLCOUPON", discount: "20% OFF", description: "20% off for 3 months", type: "normal", initialDays: 5 },
